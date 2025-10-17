@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/CGD_Project/PHOC/Content/GM_Muliplayer.uasset",
+				"D:/CGD_Project/PHOC/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/CGD_Project/PHOC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/XX/HBOKGSU1WNFQR0N5TJQZSI.uasset",
 				"D:/PHOC/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
